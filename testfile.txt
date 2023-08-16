@@ -3,3 +3,4 @@ to-do list:
 1. Learn programming
 2. Make project
 3. Use my project
+4. Study programming harder
